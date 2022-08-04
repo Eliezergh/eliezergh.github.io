@@ -19,7 +19,7 @@ body{
     top:0;
     width:4px;
     height:100%;
-    background-color:#E1BEE7;
+    background-color:#94b5b795;
     transform:scaleY(1);
     transition:all 0.5s;
     transform-origin: bottom
@@ -33,7 +33,7 @@ body{
     top:0;
     width:4px;
     height:100%;
-    background-color:#8E24AA;
+    background-color:#609d9f;
     transform:scaleY(0);
     transition:all 0.5s;
     transform-origin: bottom
@@ -57,27 +57,27 @@ body{
 
 .social-list li{
     padding:10px;
-    color:#8E24AA;
+    color:#609d9f;
     font-size:19px;
 }
 
 
 .buttons button:nth-child(1){
-       border:1px solid #8E24AA !important;
-       color:#8E24AA;
+       border:1px solid #609d9f !important;
+       color:#609d9f;
        height:40px;
 }
 
 .buttons button:nth-child(1):hover{
-       border:1px solid #8E24AA !important;
+       border:1px solid #609d9f !important;
        color:#fff;
        height:40px;
-       background-color:#8E24AA;
+       background-color:#609d9f;
 }
 
 .buttons button:nth-child(2){
-       border:1px solid #8E24AA !important;
-       background-color:#8E24AA;
+       border:1px solid #609d9f !important;
+       background-color:#609d9f;
        color:#fff;
         height:40px;
 }
