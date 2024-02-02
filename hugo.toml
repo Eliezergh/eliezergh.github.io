@@ -20,6 +20,13 @@ theme = "m10c"
     icon = "mail"
     name = "eMail"
     url = "mailto:eliezerghtech@gmail.com"
+     # Default theme
+  [params.style]
+    darkestColor = "#242930"
+    darkColor = "#353b43"
+    lightColor = "#afbac4"
+    lightestColor = "#ffffff"
+    primaryColor = "#115A87"
 
 [menu]
   [[menu.main]]
@@ -32,3 +39,5 @@ theme = "m10c"
     name = "About"
     url = "/about/"
     weight = 2
+
+ 
