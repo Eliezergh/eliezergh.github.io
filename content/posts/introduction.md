@@ -1,7 +1,7 @@
 +++
 title = 'Introduction'
 date = 2024-02-02T00:04:02Z
-draft = true
+draft = false
 +++
 
 Welcome to my personal and minimalistic blog.
