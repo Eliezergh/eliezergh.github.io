@@ -1,0 +1,34 @@
+baseURL = 'https://eliezergh.github.io/'
+languageCode = 'es-es'
+title = 'EliezerGH'
+theme = "m10c"
+[params]
+  author = "Eliezer González"
+  description = "DevOps Engineer"
+  menu_item_separator = " - "
+  favicon = "images/favicon.ico"
+  avatar = "images/avatar.png"
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/eliezergh"
+  [[params.social]]
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/eliezergh"
+  [[params.social]]
+    icon = "mail"
+    name = "eMail"
+    url = "mailto:eliezerghtech@gmail.com"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
