@@ -40,4 +40,6 @@ theme = "m10c"
     url = "/about/"
     weight = 2
 
- 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-YYZEFQNCGW'
