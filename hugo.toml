@@ -20,7 +20,6 @@ theme = "m10c"
     icon = "mail"
     name = "eMail"
     url = "mailto:eliezerghtech@gmail.com"
-     # Default theme
   [params.style]
     darkestColor = "#242930"
     darkColor = "#353b43"
