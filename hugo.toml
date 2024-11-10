@@ -1,31 +1,34 @@
 baseURL = 'https://eliezergh.github.io/'
-languageCode = 'es-es'
-title = 'EliezerGH'
-theme = "m10c"
+languageCode = "en"
+defaultcontentlanguage = "en"
+title = "EliezerGH"
+theme = "hugo-coder"
+
 [params]
   author = "Eliezer González"
-  description = "DevOps Engineer"
-  menu_item_separator = " - "
-  favicon = "images/favicon.ico"
-  avatar = "images/avatar.png"
-  [[params.social]]
-    icon = "github"
-    name = "Github"
-    url = "https://github.com/eliezergh"
-  [[params.social]]
-    icon = "linkedin"
-    name = "LinkedIn"
-    url = "https://www.linkedin.com/in/eliezergh"
-  [[params.social]]
-    icon = "mail"
-    name = "eMail"
-    url = "mailto:eliezerghtech@gmail.com"
-  [params.style]
-    darkestColor = "#242930"
-    darkColor = "#353b43"
-    lightColor = "#afbac4"
-    lightestColor = "#ffffff"
-    primaryColor = "#115A87"
+  info = "DevOps Engineer"
+  favicon_32 = "images/favicon-32x32.png"
+  avatarurl = "images/avatar.png"
+
+  colorScheme = "dark"  
+
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/eliezergh"
+[[params.social]]
+  icon = "fa-brands fa-linkedin fa-2x"
+  name = "linkedin"
+  weight = 2
+  url = "https://www.linkedin.com/in/eliezergh"
+[[params.social]]
+  icon = "fa-regular fa-envelope fa-2x"
+  name = "email"
+  weight = 3
+  url = "mailto:eliezerghtech@gmail.com"
+
+
 
 [menu]
   [[menu.main]]
@@ -34,10 +37,15 @@ theme = "m10c"
     url = "/"
     weight = 1
   [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "posts/"
+    weight = 2
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 2
+    weight = 3
 
 [services]
   [services.googleAnalytics]
