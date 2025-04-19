@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-28T21:42:44+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/wp_allow_roles_private_posts/</loc>
-    <lastmod>2024-03-28T21:42:44+00:00</lastmod>
+    <lastmod>2025-04-19T16:39:57+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-04-19T16:39:57+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/secrext/</loc>
+    <lastmod>2025-04-19T16:39:57+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/wp_allow_roles_private_posts/</loc>
     <lastmod>2024-03-28T21:42:44+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/introduction/</loc>
