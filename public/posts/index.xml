@@ -6,8 +6,15 @@
     <description>Recent content in Posts on EliezerGH</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Apr 2025 16:39:57 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 21:31:32 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Resource Search - Find All Resources in Your AWS Account</title>
+      <link>http://localhost:1313/posts/aws_search_all_resources/</link>
+      <pubDate>Wed, 02 Jul 2025 21:31:32 +0100</pubDate>
+      <guid>http://localhost:1313/posts/aws_search_all_resources/</guid>
+      <description>&lt;p&gt;Managing resources in AWS can be hard, especially when you have resources spread across multiple regions and services. If you&amp;rsquo;re looking for a way to find all your resources in one place, the &lt;strong&gt;AWS Resource Groups &amp;raquo; Tag Editor&lt;/strong&gt; will do the job for you.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-use-the-aws-resource-groups--tag-editor&#34;&gt;&#xA;  Why Use the AWS Resource Groups &amp;raquo; Tag Editor?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#why-use-the-aws-resource-groups--tag-editor&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Centralized Search:&lt;/strong&gt; Find resources across all AWS services and regions from a single interface.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tag Management:&lt;/strong&gt; Easily view, add, or edit tags to organize your resources.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cost Optimization:&lt;/strong&gt; Identify unused or underutilized resources for cleanup.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Security &amp;amp; Compliance:&lt;/strong&gt; Ensure resources are properly tagged for auditing and governance.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-to-search-all-resources-with-aws-tag-editor&#34;&gt;&#xA;  How to Search All Resources with AWS Tag Editor&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#how-to-search-all-resources-with-aws-tag-editor&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Open the AWS Console:&lt;/strong&gt;&lt;br&gt;&#xA;Go to the &lt;a href=&#34;https://console.aws.amazon.com/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AWS Management Console&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Secrext - A helm chart to implement AWS ECR in your kubernetes cluster</title>
       <link>http://localhost:1313/posts/secrext/</link>

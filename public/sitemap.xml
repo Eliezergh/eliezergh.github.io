@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/aws_search_all_resources/</loc>
+    <lastmod>2025-07-02T21:31:32+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-19T16:39:57+01:00</lastmod>
+    <lastmod>2025-07-02T21:31:32+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-19T16:39:57+01:00</lastmod>
+    <lastmod>2025-07-02T21:31:32+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/secrext/</loc>
     <lastmod>2025-04-19T16:39:57+01:00</lastmod>
