@@ -3,7 +3,6 @@ draft = false
 date = 2025-07-20T14:30:49Z
 title = “Work with Hugo on your iPad”
 +++
-
 ## Introduction
 
 As you might’ve noticed, this blog runs on [Hugo](https://gohugo.io), a static site generator that I use as the base platform.
