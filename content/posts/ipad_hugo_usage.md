@@ -1,7 +1,7 @@
 +++
 draft = false
 date = 2025-07-20T14:30:49Z
-title = “Work with Hugo on your iPad”
+title = "Work with Hugo on your iPad"
 +++
 ## Introduction
 
