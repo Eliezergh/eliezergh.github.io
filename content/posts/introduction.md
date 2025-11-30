@@ -2,6 +2,9 @@
 title = 'Introduction'
 date = 2024-02-02T00:04:02Z
 draft = false
+description = "Welcome to my personal blog"
+tags = ["hugo", "github-pages"]
+categories = ["General"]
 +++
 
 Welcome to my personal and minimalistic blog.

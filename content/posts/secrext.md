@@ -2,6 +2,9 @@
 draft = false
 date = 2025-04-19T16:39:57+01:00
 title = "Secrext - A helm chart to implement AWS ECR in your kubernetes cluster"
+description = "A Helm chart to automatically renew AWS ECR credentials in Kubernetes"
+tags = ["kubernetes", "aws", "helm", "docker", "open-source"]
+categories = ["Projects"]
 +++
 
 Secrext is a custom helm chart to handle Kubernetes External Secret Operator which allow you to renew AWS Elastic Container Registry (ECR) Authorization token automatically.

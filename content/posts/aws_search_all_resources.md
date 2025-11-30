@@ -2,6 +2,9 @@
 draft = false
 date = 2025-07-02T21:31:32+01:00
 title = "AWS Resource Search - Find All Resources in Your AWS Account"
+description = "How to find all resources across your AWS account using Tag Editor"
+tags = ["aws", "cloud", "devops"]
+categories = ["Tutorials"]
 +++
 
 Managing resources in AWS can be hard, especially when you have resources spread across multiple regions and services. If you're looking for a way to find all your resources in one place, the **AWS Resource Groups >> Tag Editor** will do the job for you.

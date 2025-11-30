@@ -2,6 +2,9 @@
 title = 'How-To - Modify Wordpress roles to allow see private posts'
 date = 2024-03-28T21:42:44Z
 draft = false
+description = "Allow Subscriber and Contributor roles to view private posts in WordPress"
+tags = ["wordpress", "php", "web-development"]
+categories = ["Tutorials"]
 +++
 
 Recently I've been working on a small project which uses wordpress to serve a static website. 

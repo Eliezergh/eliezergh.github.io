@@ -2,6 +2,9 @@
 draft = false
 date = 2025-07-20T14:30:49Z
 title = "Work with Hugo on your iPad"
+description = "How to run Hugo and manage your blog from an iPad"
+tags = ["hugo", "ipad", "linux", "productivity"]
+categories = ["Tutorials"]
 +++
 ## Introduction
 
